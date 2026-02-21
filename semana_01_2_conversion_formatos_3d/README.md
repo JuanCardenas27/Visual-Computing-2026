@@ -73,6 +73,10 @@ Carga correcta de un modelo en Python antes de convertirlo a otro formato.
 
 ### Three.js - Implementación
 
+![Interfaz de Three.js](./media/threejs_interfaz.png)
+
+Vista estática de la interfaz del comparador en Three.js, mostrando el entorno de visualización y los controles de interacción.
+
 ![Visualización de modelos convertidos en Three.js](./media/threejs_visualizacion_modelos_convertidos.gif)
 
 Visualización de los 3 modelos convertidos en la interfaz, alternando formato activo para evidenciar que los modelos analizados en Three.js son diferentes de los originales debido a la conversión, manteniendo una carga/renderizado correctos.
