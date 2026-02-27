@@ -1,4 +1,4 @@
-# Taller - Espacios Proyectivos y Matrices de Proyección
+# Taller - Proyecciones 3D: Cómo ve una Cámara Virtual
 ## Nombres: 
 Jeronimo Bermudez Hernandez
 
